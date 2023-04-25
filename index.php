@@ -310,7 +310,7 @@ require_once("db.php");
 
     <a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
 
-    <button class="open-button is-size-5" onclick="openForm()" style="color:#6900FF !important;"><strong><i class="fas fa-comment-alt"></i> Chat</strong></button>
+    <!-- <button class="open-button is-size-5" onclick="openForm()" style="color:#6900FF !important;"><strong><i class="fas fa-comment-alt"></i> Chat</strong></button>
 
     <div class="chat-popup" id="myForm">
         <form class="form-container">
@@ -319,7 +319,7 @@ require_once("db.php");
 
             <button type="button" class="button cancel is-fullwidth" style="background-color: rgba(105, 0, 255, 0.11);color:#6900FF;" onclick="closeForm()"><strong>Close</strong></button>
         </form>
-    </div>
+    </div> -->
 
     </div>
 
